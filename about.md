@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+###Ashutosh Singh
 
-### More Information
+I am a techonology enthusiast with intrests in *Machine Learninig, Computer Vision* and *Data Science*.
 
-A place to include any other types of information that you'd like to include about yourself. 
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Contact me  **[on github](http://github.com/avs20)**
