@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+This site is about my learnings building systems on scale. 
+How to do machine learning on Scale. 
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+I bring experience from ML research, Startup and Building Large scale systems at Teradata.
+Here I am building systems from scratch. 
